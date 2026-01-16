@@ -1368,6 +1368,26 @@
     "image": "ecr.png"
   },
   {
+    "name": "Granny",
+    "directory": "granny",
+    "image": "granny.png"
+  },
+  {
+    "name": "Granny 2",
+    "directory": "granny2",
+    "image": "granny2.png"
+  },
+  {
+    "name": "Granny 3",
+    "directory": "granny3",
+    "image": "granny3.png"
+  },
+  {
+    "name": "Thats not my Neighbor",
+    "directory": "notmyneighbor",
+    "image": "nmn.png"
+  },
+  {
     "name": "Watermelon Game",
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
