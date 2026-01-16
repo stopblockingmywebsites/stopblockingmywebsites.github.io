@@ -1363,6 +1363,11 @@
     "image": "splash.png"
   },
   {
+    "name": "Escape Road",
+    "directory": "escape-road",
+    "image": "ecr.png"
+  },
+  {
     "name": "Watermelon Game",
     "directory": "watermelongame",
     "image": "assets/sprites/tittle.png"
