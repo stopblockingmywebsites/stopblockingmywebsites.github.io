@@ -1369,17 +1369,17 @@
   },
   {
     "name": "Granny",
-    "directory": "granny",
+    "directory": "grannyindex.html",
     "image": "granny.png"
   },
   {
     "name": "Granny 2",
-    "directory": "granny2",
+    "directory": "granny2index.html",
     "image": "granny2.png"
   },
   {
     "name": "Granny 3",
-    "directory": "granny3",
+    "directory": "granny3index.html",
     "image": "granny3.png"
   },
   {
