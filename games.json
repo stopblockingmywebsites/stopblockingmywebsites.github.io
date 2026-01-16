@@ -1370,17 +1370,17 @@
   {
     "name": "Granny",
     "directory": "granny",
-    "image": "granny.png"
+    "image": "granny1.png"
   },
   {
     "name": "Granny 2",
     "directory": "granny2",
-    "image": "granny2.png"
+    "image": "granny22.png"
   },
   {
     "name": "Granny 3",
     "directory": "granny3",
-    "image": "granny3.png"
+    "image": "granny33.png"
   },
   {
     "name": "Thats not my Neighbor",
